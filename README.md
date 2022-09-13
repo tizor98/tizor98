@@ -12,11 +12,13 @@
 <p>Actualmente me encuentro estudiando en un Bootcamp de programación web de <a href="https://www.digitalhouse.com/"><b>Digital House</b></a>.</p>
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DE8A01?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=plastic&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" />
 </p>
 
 <h3>Pueden encontrarme aquí:</h3>
