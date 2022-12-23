@@ -12,7 +12,7 @@
 <p>Actualmente me encuentro estudiando en un Bootcamp de programación web de <a href="https://www.digitalhouse.com/"><b>Digital House</b></a>.</p>
 
 <p>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
