@@ -19,6 +19,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" />
 </p>
 
 <h3>Pueden encontrarme aquí:</h3>
