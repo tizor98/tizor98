@@ -8,7 +8,7 @@
 
 ### Hola! 👋
 
-<p>Soy Alberto Ortiz y soy Desarrollador FullStack! Nací en Colombia y previamente trabajé como consultor de negocios en <a href="https://www.bcg.com/about/overview"><b>Boston Consulting Group (BCG)</b></a> en donde inesperadamente conocí mi pasión por la tecnología.</p>
+<p>Soy Alberto Ortiz y soy Desarrollador FullStack! Previamente trabajé como consultor de negocios en <a href="https://www.bcg.com/about/overview"><b>Boston Consulting Group (BCG)</b></a> en donde inesperadamente conocí mi pasión por la tecnología.</p>
 <p>Actualmente me encuentro estudiando en un Bootcamp de programación web de <a href="https://www.digitalhouse.com/"><b>Digital House</b></a>.</p>
 
 <p>
