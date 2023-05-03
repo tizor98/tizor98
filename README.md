@@ -4,8 +4,8 @@
 
 ### Hola! 👋
 
-<p>Soy Alberto Ortiz y soy Desarrollador de Software! Estoy buscando empleo como Desarrollador centrado en el Backend</p>
-<p>Estudié en un bootcamp de programación web en <a href="https://www.digitalhouse.com/"><b>Digital House</b></a> y Previamente trabajé como consultor de negocios en <a href="https://www.bcg.com/about/overview"><b>Boston Consulting Group (BCG)</b></a> en encontré mi pasión por la tecnología.</p>
+<p>Soy Alberto Ortiz y soy Desarrollador de Software! Trabajo como desarrollador fullstack en <a href="https://www.indracompany.com/"><b>Indra</b></a></p>
+<p>Estudié en un bootcamp de programación web en <a href="https://www.digitalhouse.com/"><b>Digital House</b></a> y previamente trabajé como consultor de negocios en <a href="https://www.bcg.com/about/overview"><b>Boston Consulting Group (BCG)</b></a> en donde encontré mi pasión por la tecnología.</p>
 
 <p>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" />
@@ -15,6 +15,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="React" src="https://img.shields.io/badge/-React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
 <!--
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
