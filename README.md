@@ -2,26 +2,26 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-373F56?logo=aws&logoColor=white" />
 -->
 
-### Hola! 👋
+### Hi! 👋
 
-<p>Soy Alberto Ortiz y soy Desarrollador de Software! Trabajo como desarrollador en <a href="https://www.indracompany.com/"><b>Indra</b></a></p>
-<p>Estudié en un bootcamp de programación web en <a href="https://www.digitalhouse.com/"><b>Digital House</b></a> y previamente trabajé como consultor de negocios en <a href="https://www.bcg.com/about/overview"><b>Boston Consulting Group (BCG)</b></a> en donde encontré mi pasión por la tecnología.</p>
+<p>I'm a self-taught Software Developer with a strong passion for technology.</p> 
+<p>I specialize in Backend development using Java and Golang, and Frontend development with React. I also have experience in Mobile development with React Native, enabling cross-platform apps. My expertise extends to cloud computing, where I hold an AWS Certified Developer - Associate certification. Additionally, I work with Cloudflare to optimize performance and security for web applications.</p> 
+<p>Continuously learning and improving my skills to stay ahead of the latest technologies.</p>
 
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="React" src="https://img.shields.io/badge/-React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
 </p>
 
 <!-- 
