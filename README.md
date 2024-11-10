@@ -50,7 +50,7 @@ Esta app la puedes probar aquí: https://todo.alberto.software/
 
 ---
 
-<h3>Puedes encontrarme aquí:</h3>
+<h3>You can find me also here:</h3>
 <p>
   <a href="https://github.com/tizor98" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/baob/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
